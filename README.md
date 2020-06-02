@@ -14,6 +14,13 @@ Utilizando HTML e CSS foi criado a página principal do projeto:
 
 ![](/github/day-1-mobile.jpeg)
 
+## Day #2 - 02/06/2020
+
+Criação da primeira parte da página de cadastro de ponto de coleta.
+Além de novos conceitos de estrutura em CSS, foi feito requisição da API do IBGE para solicitar os Estados e Cidades.
+
+![](/github/day-2.png)
+
 
 
 
