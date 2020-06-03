@@ -21,6 +21,20 @@ Além de novos conceitos de estrutura em CSS, foi feito requisição da API do I
 
 ![](/github/day-2.png)
 
+## Day #3 - 03/06/2020
 
+Finalização do cadastro de ponto de coleta, criação do modal de busca de pontos e página do resultado da busca. <br/>
+Resolvi pesquisar um pouco e acrescentar trasições de animações nos botões como o grow e swing. <br/>
+Estilizei o background para da mais a minha cara.
+
+![](/github/day-3-desktop.jpeg)
+
+![](/github/day-3-mobile.jpeg)
+
+![](/github/day-3-create-point.jpeg)
+
+![](/github/day-3-modal.jpeg)
+
+![](/github/day-3-search-results.jpeg)
 
 
