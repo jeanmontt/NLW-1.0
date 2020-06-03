@@ -10,41 +10,75 @@
 
     <link rel="stylesheet" href="/styles/main.css">
     <link rel="stylesheet" href="/styles/home.css">
+    <link rel="stylesheet" href="/styles/modal.css">
+    <link rel="stylesheet" href="/styles/keyframes.css">
+
     <link rel="stylesheet" href="/styles/responsive.css">
 </head>
 
 <body>
-    <!-- Início #page-home -->
+    <!-- Begin #page-home -->
     <div id="page-home">
-        <!-- Início #page-home .content -->
+        <!-- Begin #page-home .content -->
         <div class="content">
-            <!-- Início header -->
+            <!-- Begin header -->
             <header>
                 <img src="/assets/logo.svg" alt="Logomarca">
-                <a href="#">
+                <a href="/create-point.html" class="swing">
                     <span></span>
                     Cadastre um ponto de coleta
                 </a>
             </header>
-            <!-- Fim header -->
+            <!-- End header -->
 
-            <!-- Início main -->
+            <!-- Begin main -->
             <main>
                 <h1>Seu marketplace de coleta de resíduos</h1>
 
                 <p>Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente.</p>
 
-                <a href="#">
+                <a href="#" class="grow">
                     <span></span>
                     <strong>Pesquisar pontos de coleta</strong>
                 </a>
             </main>
-            <!-- Fim main -->
+            <!-- End main -->
         </div>
-        <!-- Fim #page-home .content -->
+        <!-- End #page-home .content -->
     </div>
-    <!-- Fim #page-home -->
+    <!-- End #page-home -->
 
+    <!-- Begin modal -->
+    <div id="modal" class="hide">
+        <!-- Begin modal .content -->
+        <div class="content">
+            <!-- Begin modal .content .header -->
+            <div class="header">
+                <h1>Pontos de coleta</h1>
+                <a href="#">Fechar</a>
+            </div>
+            <!-- End modal .content .header -->
+
+            <!-- Begin modal form -->
+            <form action="/search-results.html">
+                <label for="search">Cidade</label>
+
+                <!-- Begin modal form .search .field -->
+                <div class="search field">
+                    <input type="text" name="search" placeholder="Pesquise por cidade">
+                    <button class="threed">
+                        <img src="/assets/search.svg" alt="Buscar">
+                    </button>
+                </div>
+                <!-- End modal form .search .field -->
+            </form>
+            <!-- End modal form -->
+        </div>
+        <!-- End modal .content -->
+    </div>
+    <!-- End modal -->
+
+    <script src="/scripts/index.js"></script>
 </body>
 
 </html>
