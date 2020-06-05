@@ -40,7 +40,7 @@ Estilizei o background para da mais a minha cara.
 ## Day #4 - 04/06/2020
 
 Neste dia foi iniciado o back-end com Node.Js. <br/>
-Realizei a estrutura das pastas do projeto, criação e configuração do servidor, istalação dos módulos e utilização de template engine (nunjucks).
+Realizei a estrutura das pastas do projeto, criação e configuração do servidor, instalação dos módulos e utilização de template engine (nunjucks).
 
 ![](/github/day-4.png)
 
