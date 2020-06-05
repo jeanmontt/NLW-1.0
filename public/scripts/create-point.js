@@ -59,6 +59,7 @@ function handdleSelectedItem(event) {
     itemLi.classList.toggle("selected");
     
     const itemId = event.target.dataset.id;
+
     //Verificar itens selecionados, se sim, pegar os intens selecionados
     const alreadySelected = selectedItems.findIndex(item => {
         const itemFound = item == itemId; //retornará true ou false
