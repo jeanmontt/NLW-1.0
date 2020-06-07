@@ -53,6 +53,12 @@ Finalização das páginas.<br/>
 <br/>
 Próximos passos será configurar a responsividade para todos os dispositivos e algumas melhorias
 
+## Finalizando a responsividade - 07/06/2020
+
+Hoje foi finalizado a responsividade do projeto para todos os dispositivos existentes no device toolbar do Chrome.
+
+
+
 
 
 

@@ -1,6 +1,31 @@
-@media (max-width: 360px) {
-    #page-home header {
-        margin-top: 20px;
+@media (min-width: 1700px) {
+    #page-home {
+        background-position-x: 40vw;
+    }
+}
+
+@media (min-width: 1024px) {
+    #page-home {
+        background-position-x: 76vw;
+    }
+
+    #page-home .content {
+        align-items: center;
+        text-align: center;
+    }
+
+    #page-home header a {
+        position: absolute;
+        bottom: 48px;
+
+        left: 50%;
+        transform: translateX(-50%);
+
+        margin-bottom: 25vh;
+    }
+
+    #page-home main {
+        align-items: center;
     }
 }
 
@@ -43,9 +68,34 @@
     }
 }
 
-@media (min-width: 1700px) {
-    #page-home {
-        background-position-x: 40vw;
+@media (max-width: 414px) {
+    #page-home main h1 {
+        font-size: 50px;
+    }
+
+    #page-home main p {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 375px) {
+    #page-home main h1 {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 320px) {
+    #page-home main h1 {
+        font-size: 35px;
+    }
+
+    #page-home main p {
+        font-size: 15px;
+        margin-top: 10px;
+    }
+
+    #page-home main a {
+        margin-bottom: 50px;
     }
 }
 
