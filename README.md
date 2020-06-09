@@ -1,65 +1,114 @@
-# Projeto Ecoleta - Next Level Week 1.0
+<h1 align=center>
+    <img src="public/assets/logonlw.svg" alt="Logo Next Level Week" width="250px">
+</h1>
 
-![](assets/logo.svg)
+<h4 align="center"> 
+	♻️ NextLevelWeek 1.0 ♻️ <br/> 🚀 Done! ✔️
+</h4>
 
-## Projeto Ecoleta praticado na primeira NLW - Trilha Starter da Rocketseat.
+## 📑️ Índice
+  - [Next Level Week](#ℹ️-O-que-é-a-Next-Level-Week)
+  - [O projeto](#📝️-Sobre)
+  - [Tecnologias](#🚀️-Tecnologias-utilizadas)
+  - [Como usar](#💾️-Como-baixar/testar-o-projeto)
+  - [Contato](#Desenvolvido-com-💙️-por:)
 
-No projeto irá ser desenvolvido um marketplace de coleta de resíduos para descarte ecológico, o tema foi escolhido pela Rocketseat em comemoração à semana do meio ambiente.
+## ℹ️ O que é a Next Level Week
 
-## Day #1 - 01/06/2020
+A NLW é uma semana prática com muito código, desafios, networking e um único objetivo: levá-lo ao próximo nível. Através do nosso método, você aprenderá novas ferramentas, aprenderá sobre novas tecnologias e descobrirá hacks que irão impulsionar sua carreira. Um evento online e totalmente gratuito que o ajudará a dar o próximo passo na sua evolução como desenvolvedor.
 
-Utilizando HTML e CSS foi criado a página principal do projeto:
+### Dias
+Dia 1: Acelerando sua evolução 01/06 - ✔️ <br/>
+Dia 2: Olhando para as oportunidades 02/06 - ✔️ <br/>
+Dia 3: A escolha da Stack 03/06 - ✔️ <br/>
+Dia 4: Até 2 anos em 2 meses 04/06 - ✔️ <br/>
+Dia 5: Milha extra 05/06 - ✔️
 
-![](/public/assets/day-1-desktop.jpeg)
+---
 
-![](/public/assets/day-1-mobile.jpeg)
+<h1 align=center>
+    <img src="public/assets/logo.svg" alt="Logo Ecoleta">
+</h1>
 
-## Day #2 - 02/06/2020
+<h1>
+    <img src="public/assets/ecoleta.gif" alt="Gif demonstrativo Ecoleta">
+</h1>
 
-Criação da primeira parte da página de cadastro de ponto de coleta.
-Além de novos conceitos de estrutura em CSS, foi feito requisição da API do IBGE para solicitar os Estados e Cidades.
+## 📝️ Sobre
 
-![](/public/assets/day-2.png)
+O projeto **Ecoleta** é um marketplace de coleta de resíduos para descarte ecológio que foi proposto na **Next Level Week - Trilha Starter** da Rocketseat com intuito de criar uma aplicação web em uma semana e praticar os conceitos propostos. O tema foi escolhido em comemopração à semana do meio ambiente.
 
-## Day #3 - 03/06/2020
-
-Finalização do cadastro de ponto de coleta, criação do modal de busca de pontos e página do resultado da busca. <br/>
-Resolvi pesquisar um pouco e acrescentar trasições de animações nos botões como o grow e swing. <br/>
-Estilizei o background para da mais a minha cara.
-
-![](/public/assets/day-3-desktop.jpeg)
-
-![](/public/assets/day-3-mobile.jpeg)
-
-![](/public/assets/day-3-create-point.jpeg)
-
-![](/public/assets/day-3-modal.jpeg)
-
-![](/public/assets/day-3-search-results.jpeg)
-
-## Day #4 - 04/06/2020
-
-Neste dia foi iniciado o back-end com Node.Js. <br/>
-Realizei a estrutura das pastas do projeto, criação e configuração do servidor, instalação dos módulos e utilização de template engine (nunjucks).
-
-![](/public/assets/day-4.png)
-
-## Day #5 - 05/06/2020
-
-Finalização da NLW#1. <br/>
-Criação, exportação e importação de banco de dados SQLite3. <br/>
-Criação, consulta, atualização, remoção das tabelas e envio ao banco de dados.<br/>
-Finalização das páginas.<br/>
-<br/>
-Próximos passos será configurar a responsividade para todos os dispositivos e algumas melhorias
-
-## Finalizando a responsividade - 07/06/2020
-
-Hoje foi finalizado a responsividade do projeto para todos os dispositivos existentes no device toolbar do Chrome.
+---
 
 
 
+## 🚀️ Tecnologias utilizadas
 
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+- NodeJS
+- npm
+- ExpressJS
+- Nunjucks
+- Nodemon
+- SQLite3
+
+---
+
+## 💻️ Acrescentado ao projeto
+
+- Background estilizado
+- Animações aos botões
+- Responsividade para para todos os dispositivos existentes no device toolbar do Chrome. 🚧️
+
+---
+
+## 💾️ Como baixar/testar o projeto
+
+- Você irá precisar instalat o [Git](https://git-scm.com/), [NodeJS](https://nodejs.org/pt-br/download/) + [npm](https://www.npmjs.com/get-npm):
+
+```bash
+    # Versões mínimas ou superiores.
+    $ node -v
+    v12.16.3
+
+    $ npm -v
+    6.14.5
+```
+
+- Para configurar, no bash digite os seguinte códigos:
+
+```bash
+    # Clonar o repositório
+    $ git clone https://github.com/jeanmontt/NLW-1.0.git
+
+    #Entrar no diretório
+    $ cd NLW-1.0
+
+    #Instalar as dependências
+    $ npm install
+
+    #Iniciar o local host
+    $ npm start
+```
+
+- Por ultimo abra seu navegador e digite:
+
+```
+    localhost:3000
+```
+
+---
+
+#### Desenvolvido com 💙️ por: 
+***Jean Monteiro*** 
+<br/> 
+<a href="https://www.linkedin.com/in/jeanmont/">
+<img src="public/assets/linkedin.png">
+</a>
 
 
 
