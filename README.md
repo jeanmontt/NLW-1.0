@@ -1,17 +1,23 @@
 <h1 align=center>
-    <img src="public/assets/logonlw.svg" alt="Logo Next Level Week" width="250px">
+<img src="public/assets/logonlw.svg" alt="Logo Next Level Week" width="250px">
 </h1>
 
 <h4 align="center"> 
-	♻️ NextLevelWeek 1.0 ♻️ <br/> 🚀 Done! ✔️
+♻️ NextLevelWeek 1.0 ♻️ <br/> 🚀 Done! ✔️
 </h4>
 
+---
+
 ## 📑️ Índice
-  - [Next Level Week](#ℹ️-O-que-é-a-Next-Level-Week)
-  - [O projeto](#📝️-Sobre)
-  - [Tecnologias](#🚀️-Tecnologias-utilizadas)
-  - [Como usar](#💾️-Como-baixar/testar-o-projeto)
-  - [Contato](#Desenvolvido-com-💙️-por:)
+
+- [Next Level Week](#ℹ️--O-que-é-a-Next-Level-Week)
+- [O projeto](#📝️-Sobre)
+- [Tecnologias utilizadas](#🚀️-Tecnologias-utilizadas)
+- [Acrescentado ao projeto original](#💻️-Acrescentado-ao-projeto-original)
+- [Como usar](#💾️-Como-baixar/testar-o-projeto)
+- [Contato](#Desenvolvido-com-💙️-por:)
+
+---
 
 ## ℹ️ O que é a Next Level Week
 
@@ -27,20 +33,18 @@ Dia 5: Milha extra 05/06 - ✔️
 ---
 
 <h1 align=center>
-    <img src="public/assets/logo.svg" alt="Logo Ecoleta">
+<img src="public/assets/logo.svg" alt="Logo Ecoleta" width="300">
 </h1>
 
 <h1>
-    <img src="public/assets/ecoleta.gif" alt="Gif demonstrativo Ecoleta">
+<img src="public/assets/ecoleta.gif" alt="Gif demonstrativo Ecoleta">
 </h1>
 
 ## 📝️ Sobre
 
-O projeto **Ecoleta** é um marketplace de coleta de resíduos para descarte ecológio que foi proposto na **Next Level Week - Trilha Starter** da Rocketseat com intuito de criar uma aplicação web em uma semana e praticar os conceitos propostos. O tema foi escolhido em comemopração à semana do meio ambiente.
+O projeto **Ecoleta** é um marketplace de coleta de resíduos para descarte ecológico que foi proposto na **Next Level Week - Trilha Starter** da Rocketseat com intuito de criar uma aplicação web em uma semana e praticar os conceitos propostos. O tema foi escolhido em comemoração à semana do meio ambiente.
 
 ---
-
-
 
 ## 🚀️ Tecnologias utilizadas
 
@@ -58,7 +62,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-## 💻️ Acrescentado ao projeto
+## 💻️ Acrescentado ao projeto original
 
 - Background estilizado
 - Animações aos botões
@@ -68,37 +72,37 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 💾️ Como baixar/testar o projeto
 
-- Você irá precisar instalat o [Git](https://git-scm.com/), [NodeJS](https://nodejs.org/pt-br/download/) + [npm](https://www.npmjs.com/get-npm):
+- Você irá precisar instalar o [Git](https://git-scm.com/), [NodeJS](https://nodejs.org/pt-br/download/) + [npm](https://www.npmjs.com/get-npm):
 
 ```bash
-    # Versões mínimas ou superiores.
-    $ node -v
-    v12.16.3
+# Versões mínimas ou superiores.
+$ node -v
+v12.16.3
 
-    $ npm -v
-    6.14.5
+$ npm -v
+6.14.5
 ```
 
 - Para configurar, no bash digite os seguinte códigos:
 
 ```bash
-    # Clonar o repositório
-    $ git clone https://github.com/jeanmontt/NLW-1.0.git
+# Clonar o repositório
+$ git clone https://github.com/jeanmontt/NLW-1.0.git
 
-    #Entrar no diretório
-    $ cd NLW-1.0
+#Entrar no diretório
+$ cd NLW-1.0
 
-    #Instalar as dependências
-    $ npm install
+#Instalar as dependências
+$ npm install
 
-    #Iniciar o local host
-    $ npm start
+#Iniciar o local host
+$ npm start
 ```
 
 - Por ultimo abra seu navegador e digite:
 
 ```
-    localhost:3000
+localhost:3000
 ```
 
 ---
@@ -109,7 +113,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <a href="https://www.linkedin.com/in/jeanmont/">
 <img src="public/assets/linkedin.png">
 </a>
-
-
-
-
