@@ -77,10 +77,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```bash
 # Versões mínimas ou superiores.
 $ node -v
-v12.16.3
+v12.18.0
 
 $ npm -v
-6.14.5
+6.14.4
 ```
 
 - Para configurar, no bash digite os seguinte códigos:
