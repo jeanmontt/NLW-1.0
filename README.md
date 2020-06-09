@@ -107,7 +107,8 @@ localhost:3000
 
 ---
 
-#### Desenvolvido com 💙️ por: 
+#### Desenvolvido com 💙️ por:
+
 ***Jean Monteiro*** 
 <br/> 
 <a href="https://www.linkedin.com/in/jeanmont/">
