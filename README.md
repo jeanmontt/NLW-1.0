@@ -10,12 +10,12 @@
 
 ## 📑️ Índice
 
-- [Next Level Week](#ℹ️--O-que-é-a-Next-Level-Week)
-- [O projeto](#📝️-Sobre)
-- [Tecnologias utilizadas](#🚀️-Tecnologias-utilizadas)
-- [Acrescentado ao projeto original](#💻️-Acrescentado-ao-projeto-original)
-- [Como usar](#💾️-Como-baixar/testar-o-projeto)
-- [Contato](#Desenvolvido-com-💙️-por:)
+- [Next Level Week](#-ℹ%EF%B8%8F-o-que-é-a-next-level-week)
+- [O projeto](#-📝️-sobre)
+- [Tecnologias utilizadas](#-🚀️-tecnologias-utilizadas)
+- [Acrescentado ao projeto original](#-💻️-acrescentado-ao-projeto-original)
+- [Como usar](#-💾️-como-baixar/testar-o-projeto)
+- [Contato](#-desenvolvido-com-💙️-por:)
 
 ---
 
