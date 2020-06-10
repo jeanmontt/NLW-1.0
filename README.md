@@ -10,7 +10,7 @@
 
 ## 📑️ Índice
 
-- [Next Level Week](#-ℹ%EF%B8%8F-o-que-é-a-next-level-week)
+- [Next Level Week](#ℹ%EF%B8%8F-o-que-é-a-next-level-week)
 - [O projeto](#-📝️-sobre)
 - [Tecnologias utilizadas](#-🚀️-tecnologias-utilizadas)
 - [Acrescentado ao projeto original](#-💻️-acrescentado-ao-projeto-original)
